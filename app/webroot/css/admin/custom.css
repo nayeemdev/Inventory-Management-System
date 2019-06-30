@@ -1,0 +1,24 @@
+/* your styles go here */
+.section-top {
+    padding: 15px !important;
+}
+
+section {
+    padding: 0 !important;
+}
+.form-inline .form-control{
+    width: 450px !important;
+}
+
+.custom-bg-color {
+   background-color:  #796AEE !important;
+}
+.login-page .form-holder .info h1{
+    font-size: 36px !important;
+}
+
+.table th, .table td{border-top:none;}
+
+.msg-margin{
+    margin: 15px 15px 0px;
+}

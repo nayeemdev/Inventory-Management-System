@@ -1,0 +1,474 @@
+.navbar-light .navbar-toggler {
+  border-color: #fff;
+}
+
+/*.navbar-light .navbar-toggler-icon{
+display: none;
+}*/
+.navicon {
+  display: block;
+  color: #fff;
+  font-size: 28px;
+  padding-top: 2px;
+
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.nav-item:hover>.tab-pane {
+  display: block;
+}
+
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22) !important;
+}
+
+#news-notice {
+  background: #fd8803;
+  padding: 55px 0;
+}
+
+.str {
+  color: #443a75;
+}
+
+.notice-pra {
+  color: #90134D;
+}
+
+.notice-span {
+  color: #ffcc21;
+}
+
+.notice-height {
+  min-height: 700px;
+}
+
+#facilities {}
+
+/*.item {
+min-height: 450px;
+box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}*/
+.item {
+  margin: 5px;
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
+}
+
+.size7x {
+  font-size: 58px;
+  color: #443a75;
+  transition: 0.5s;
+}
+
+.header-banner {
+  background-color: #333;
+  background-image: url('https://37.media.tumblr.com/8b4969985e84b2aa1ac8d3449475f1af/tumblr_n3iftvUesn1snvqtdo1_1280.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+header h1 {
+  /* background-color: rgba(18,72,120, 0.8); */
+  color: #fff;
+  padding: 0 1rem;
+  position: absolute;
+  top: 45px;
+  left: 20%;
+}
+
+.fixed-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+nav {
+  width: 100%;
+  background: rgba(144, 19, 77, 0.9);
+  z-index: 99999;
+  box-shadow: 0 0px 2px 0px rgba(144, 19, 77, 0.8);
+  border-bottom: 1px solid rgba(162, 19, 97, 0.9);
+}
+
+.site-title {
+  visibility: hidden;
+  display: none;
+}
+
+.visible-title {
+  visibility: visible;
+  display: block;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+
+.nav-link {
+  padding: 0 8px 0px 8px;
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  outline: none;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #f7f232;
+  outline: none;
+  text-decoration: none;
+  transition: 0.8s;
+}
+
+/*university glance section custom css use start*/
+.card h3 {
+  color: rgba(144, 19, 77, 0.9);
+}
+
+.card p {
+  color: #443a75;
+}
+
+.card a,
+.message a {
+  color: rgba(144, 19, 77, 0.9);
+}
+
+.message p {
+  color: #443a75;
+}
+
+.principal {
+  color: rgb(144, 19, 77, 0.9);
+}
+
+/*news notice section custom css use start*/
+
+.btn-news {
+  background: rgba(144, 19, 77, 0.9);
+  color: #ffcc21;
+  font-weight: bold;
+  border: 1px solid rgba(144, 19, 77, 0.9);
+  margin-top: 36px;
+}
+
+.btn-news:hover {
+  background: #443a75;
+  color: #ffcc21;
+  border: 1px solid #443a75;
+  transition: 0.8s;
+}
+
+/*facilities section custom css use start*/
+
+.facilities {
+  position: relative;
+}
+
+.facilities h2 ::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  margin-top: 0;
+  top: 97px;
+  background: #ddd;
+  left: calc(50% - 60px);
+}
+
+.facilities h2 ::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin-top: 10px;
+  background: rgba(144, 19, 77, 0.9);
+  left: calc(50% - 20px);
+}
+
+.section-title {
+  color: rgba(144, 19, 77, 0.9);
+}
+
+.fixed-header ul.navbar-nav {
+  float: right;
+}
+
+/*university glance section custom css use start*/
+.university-glance {
+  background: url(../img/about-bg.jpg) center top no-repeat fixed;
+  background-position: center;
+  background-size: cover;
+  padding: 60px 0 40px 0;
+  position: relative;
+  color: #443a75;
+}
+
+.university-glance::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.7);
+  z-index: 9;
+
+}
+
+.university-glance .container {
+  position: relative;
+  z-index: 10;
+}
+
+.university-glance h2::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  margin-top: 0;
+  top: 73px;
+  background: #ddd;
+  left: calc(50% - 60px);
+}
+
+.university-glance h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin-top: 10px;
+  background: rgba(144, 19, 77, 0.9);
+  left: calc(50% - 20px);
+}
+
+.glance i:hover {
+  color: #90134d;
+  cursor: pointer;
+}
+
+.footer {
+  background: rgba(144, 19, 77, 0.9);
+  position: relative;
+}
+
+.scrollbox {
+  height: 700px;
+  overflow: auto;
+  visibility: hidden;
+  overflow-x: hidden;
+}
+
+.scrollbox-content,
+.scrollbox:hover,
+.scrollbox:focus {
+  visibility: visible;
+}
+
+.scrollbox::-webkit-scrollbar-track {
+
+  border-radius: 10px;
+  background-color: #fd8803;
+}
+
+.scrollbox::-webkit-scrollbar {
+  width: 0px;
+  background-color: #fd8803;
+}
+
+.scrollbox::-webkit-scrollbar-thumb {
+  background-color: rgba(144, 19, 77, 0.9);
+  border-radius: 10px;
+}
+
+/*.footer h4::before  {
+content: '';
+position: absolute;
+display: block;
+width: 120px;
+height: 1px;
+margin-top:0;
+top: 73px;
+background: #ddd;
+left: calc(50% - 60px);
+}
+.footer h4::after {
+content: '';
+position: absolute;
+display: block;
+width: 40px;
+height: 3px;
+margin-top:10px;
+background: #443a75;
+left: calc(50% - 20px);
+}*/
+
+/*about  page style css*/
+
+.list-group{
+  text-transform: uppercase;
+  font-weight:bold;
+
+}
+.title-about{
+  background: url(../img/about-bg.jpg) no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 25px 0;
+}
+.about-right{
+
+}
+.list-group-item.active{
+  background: rgba(144, 19, 77, 0.9);
+  border-color: rgba(144, 19, 77, 0.9);
+}
+.tab-pane h3 {
+    color: rgba(144, 19, 77, 0.9);
+    font-weight: bold;
+    border-bottom: 5px solid;
+    padding: 10px 0;
+}
+.tab-pane h6{
+  font-weight: bold;
+}
+.tab-pane p{
+  text-align: justify;
+  color: #443a75;
+}
+.knowledge{
+  border-left: 5px solid #443a75;
+  padding: 0 10px;
+  margin: 10px 0;
+
+}
+.knowledge h4{
+  color: rgba(144, 19, 77, 0.9);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+/*.tab-pane h4{
+    border-left: 5px solid #443a75;
+  padding: 0 10px;
+}*/
+/*contact us page style css*/
+
+.contact-banner{
+  background: url(../img/contact-bg.jpg) no-repeat;
+  background-position:center center;
+  background-size:cover;
+  height: 350px;
+}
+.contact-banner h1{
+  color: #fff;
+    font-size: 58px;
+    vertical-align: middle;
+    padding-top: 130px;
+    font-weight: bold;
+}
+.icon-color{
+  color: #443a75;
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+   #wowslider-container1 .ws-title div,
+   #wowslider-container1 .ws-title span {
+    font-size: 14px;
+   }
+}
+
+/*Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767px) {
+  .navbar {
+    padding: 0
+ }
+.site-title {
+    visibility: visible;
+   }
+
+   .mobile-device {
+    display: none;
+   }
+
+   .section-title {
+    font-size: 28px;
+   }
+
+   .notice-mob-dev {
+    text-align: left;
+    padding: 70px 0px;
+   }
+
+   .notice-mob-dev h3 {
+    text-align: center;
+   }
+
+   .notice-mob-dev a p {
+    padding-top: 20px;
+   }
+
+   #wowslider-container1 .ws-title div,
+   #wowslider-container1 .ws-title span {
+    font-size: 18px;
+   }
+}
+
+
+
+/*Medium devices (tablets, less than 992px)*/
+@media (max-width: 991px) {
+     .mobile-device {
+       display: none;
+    }
+
+    .site-title {
+       visibility: visible;
+       display: block;
+    }
+
+    .fixed-header ul.navbar-nav {
+       float: left;
+    }
+
+    #wowslider-container1 .ws-title div,
+    #wowslider-container1 .ws-title span {
+       font-size: 26px;
+    }
+}
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+  ...
+}
+
+/*Extra large devices (large desktops)
+No media query since the extra-large breakpoint has no upper bound on its width*/
+/*@media (min-width: 991px) {
+
+.fixed-header #navbarSupportedContent {
+display: inline-block !important;
+}
+}*/

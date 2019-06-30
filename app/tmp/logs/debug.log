@@ -1,0 +1,462 @@
+2019-05-21 11:27:47 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-21 11:27:47 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-21 11:27:47 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:02:11 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:02:11 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:02:11 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:02:56 Debug: Notice (8): compact(): Undefined variable: keyword in [E:\xampp\htdocs\ims\app\Controller\ProductsController.php, line 55]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+ProductsController::admin_index() - APP\Controller\ProductsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:03:16 Debug: Notice (8): compact(): Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:03:16 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_buying_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-05-27 09:03:16 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_selling_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-12 16:29:11 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-12 16:29:11 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-12 16:29:11 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-12 16:29:29 Debug: Notice (8): compact(): Undefined variable: keyword in [E:\xampp\htdocs\ims\app\Controller\ProductsController.php, line 55]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+ProductsController::admin_index() - APP\Controller\ProductsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:43:25 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:43:25 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:43:25 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:16 Debug: Notice (8): compact(): Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:16 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_buying_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:16 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_selling_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:39 Debug: Notice (8): compact(): Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:39 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_buying_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:39 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_selling_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:53 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:53 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 07:57:53 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:41:07 Debug: Notice (8): compact(): Undefined variable: keyword in [E:\xampp\htdocs\ims\app\Controller\ProductsController.php, line 55]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+ProductsController::admin_index() - APP\Controller\ProductsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:41:13 Debug: Notice (8): compact(): Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:41:13 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_buying_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:41:13 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: last_selling_rate in [E:\xampp\htdocs\ims\app\Controller\PurchasesController.php, line 75]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+PurchasesController::admin_index() - APP\Controller\PurchasesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:45:57 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:45:57 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:45:57 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:51:35 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:51:35 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:51:35 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:05 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:05 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:05 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:35 Debug: Notice (8): compact(): Undefined variable: categories in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:35 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: products in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
+2019-06-16 08:52:35 Debug: Notice (8): compact() [<a href='http://php.net/function.compact'>function.compact</a>]: Undefined variable: category in [E:\xampp\htdocs\ims\app\Controller\UsersController.php, line 225]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+compact - [internal], line ??
+UsersController::admin_dashboard() - APP\Controller\UsersController.php, line 225
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 499
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 117
+
